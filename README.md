@@ -1,1 +1,7 @@
 # Cach-Cai-BHXH-Auto
+Buoc 1. Download Tampermonkey trong Chrome Extensions "https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=vi"
+Buoc 2. Sau khi da cai Tampermonkey , bam vao Extension , ghim Tampermonkey <img width="68" height="38" alt="image" src="https://github.com/user-attachments/assets/b9a84a9d-b67f-4708-b5d1-2dbf1dcd0d67" />
+bam chuot phai vao Icon Tampermonkey va chon Manage extension , <img width="665" height="87" alt="image" src="https://github.com/user-attachments/assets/025128b3-33cf-4595-b77b-47d5162f761f" /> Allow User Scripts bat len
+sau khi bat len vao lai web "https://baohiemxahoi.gov.vn/tracuu/Pages/tra-cuu-thoi-han-su-dung-the-bhyt.aspx" va bam vao <img width="37" height="29" alt="image" src="https://github.com/user-attachments/assets/06743500-2144-4315-8c90-15ab8616c7b5" /> , no se hien len 1 cai bang luc nay bam vao <img width="265" height="34" alt="image" src="https://github.com/user-attachments/assets/9214b13a-c7d6-412a-aa78-8c9eb65a991e" />
+Buoc 3. Luc nay no se dua ban vao 1 web nhu nay  <img width="1915" height="937" alt="image" src="https://github.com/user-attachments/assets/7c377155-739d-4479-a6ae-036d02579c32" /> , cu xoa het , sau khi xoa no se nhu nay <img width="1418" height="907" alt="image" src="https://github.com/user-attachments/assets/b4548343-215c-4b9e-8ee0-e8d0eca4088b" />
+luc nay ban can script dan vao  
