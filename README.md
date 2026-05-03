@@ -1,5 +1,6 @@
 # Cach-Cai-BHXH-Auto
 Buoc 1. Download Tampermonkey trong Chrome Extensions "https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=vi"
+
 Buoc 2. Sau khi da cai Tampermonkey , bam vao Extension , ghim Tampermonkey <img width="68" height="38" alt="image" src="https://github.com/user-attachments/assets/b9a84a9d-b67f-4708-b5d1-2dbf1dcd0d67" />
 bam chuot phai vao Icon Tampermonkey va chon Manage extension , <img width="665" height="87" alt="image" src="https://github.com/user-attachments/assets/025128b3-33cf-4595-b77b-47d5162f761f" /> Allow User Scripts bat len
 sau khi bat len vao lai web "https://baohiemxahoi.gov.vn/tracuu/Pages/tra-cuu-thoi-han-su-dung-the-bhyt.aspx" va bam vao <img width="37" height="29" alt="image" src="https://github.com/user-attachments/assets/06743500-2144-4315-8c90-15ab8616c7b5" /> , no se hien len 1 cai bang luc nay bam vao <img width="265" height="34" alt="image" src="https://github.com/user-attachments/assets/9214b13a-c7d6-412a-aa78-8c9eb65a991e" />
