@@ -1,9 +1,50 @@
-# Cach-Cai-BHXH-Auto
-Buoc 1. Download Tampermonkey trong Chrome Extensions "https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=vi"
+Dưới đây là phiên bản README.md đã được tối ưu hóa để chuyên nghiệp và dễ nhìn hơn trên GitHub. Mình đã sử dụng các định dạng bảng, emoji và các khối code để người dùng dễ dàng theo dõi các bước thực hiện.
 
-Buoc 2. Sau khi da cai Tampermonkey , bam vao Extension , ghim Tampermonkey <img width="68" height="38" alt="image" src="https://github.com/user-attachments/assets/b9a84a9d-b67f-4708-b5d1-2dbf1dcd0d67" />
-bam chuot phai vao Icon Tampermonkey va chon Manage extension , <img width="665" height="87" alt="image" src="https://github.com/user-attachments/assets/025128b3-33cf-4595-b77b-47d5162f761f" /> Allow User Scripts bat len
-sau khi bat len vao lai web "https://baohiemxahoi.gov.vn/tracuu/Pages/tra-cuu-thoi-han-su-dung-the-bhyt.aspx" va bam vao <img width="37" height="29" alt="image" src="https://github.com/user-attachments/assets/06743500-2144-4315-8c90-15ab8616c7b5" /> , no se hien len 1 cai bang luc nay bam vao <img width="265" height="34" alt="image" src="https://github.com/user-attachments/assets/9214b13a-c7d6-412a-aa78-8c9eb65a991e" />
-Buoc 3. Luc nay no se dua ban vao 1 web nhu nay  <img width="1915" height="937" alt="image" src="https://github.com/user-attachments/assets/7c377155-739d-4479-a6ae-036d02579c32" /> , cu xoa het , sau khi xoa no se nhu nay <img width="1418" height="907" alt="image" src="https://github.com/user-attachments/assets/b4548343-215c-4b9e-8ee0-e8d0eca4088b" />
-luc nay ban can script dan vao do , luc nay de lay script can bam vao "script.js" de lay script <img width="1919" height="808" alt="image" src="https://github.com/user-attachments/assets/86312576-418c-49c4-bf0c-972cbbd34dcb" /> 
+🚀 BHXH Auto-Helper
+Công cụ hỗ trợ tự động điền thông tin và tra cứu thời hạn thẻ BHYT trên trang web của Bảo hiểm Xã hội Việt Nam.
+
+🛠 Hướng dẫn cài đặt
+Bước 1: Cài đặt Extension Tampermonkey
+Trước tiên, bạn cần cài đặt tiện ích Tampermonkey cho trình duyệt Chrome (hoặc các trình duyệt nhân Chromium khác).
+
+Link tải: Tampermonkey trên Chrome Web Store
+
+Bước 2: Cấu hình Tampermonkey
+Sau khi cài đặt, nhấn vào biểu tượng Extension (mảnh ghép) trên trình duyệt và Ghim (Pin) Tampermonkey để dễ sử dụng.
+
+Chuột phải vào icon Tampermonkey -> Chọn Manage extension (Quản lý tiện ích).
+
+Tìm và bật mục Allow access to file URLs (Cho phép truy cập vào các URL tệp) hoặc Developer Mode nếu cần để script hoạt động ổn định.
+
+Truy cập vào trang tra cứu: BHXH Việt Nam - Tra cứu BHYT.
+
+Nhấn vào icon Tampermonkey -> Chọn Create a new script... (Tạo bản mới).
+
+Bước 3: Thêm Script vào Tampermonkey
+Trình soạn thảo hiện ra, bạn hãy xóa sạch các nội dung mặc định có sẵn.
+
+Mở file script.js trong kho lưu trữ này, copy toàn bộ nội dung code.
+
+Dán (CTRL + V) code vào trình soạn thảo của Tampermonkey và nhấn CTRL + S để lưu lại.
+
+📖 Hướng dẫn sử dụng
+Bước 4: Kích hoạt công cụ
+Quay lại trang web tra cứu BHXH.
+
+Kiểm tra icon Tampermonkey thấy có số 1 màu đỏ (tức là script đã nhận). Đảm bảo script BHXH Auto-Helper đang ở trạng thái ON.
+
+Nhấn F5 để tải lại trang.
+
+Bước 5: Nhập liệu và Tra cứu
+Lúc này, một bảng điều khiển sẽ xuất hiện ngay trên trang web.
+
+Sao chép danh sách từ Excel theo định dạng: [HỌ TÊN] [MÃ SỐ] [NGÀY SINH].
+
+Dán vào ô nhập liệu của bảng và nhấn nút Bắt đầu.
+
+Hệ thống sẽ tự động điền thông tin. Bạn chỉ cần xác nhận mã Captcha (Tôi không phải là người máy).
+
+Kết quả sẽ được tự động lưu lại vào phần Kết quả thu được bên dưới bảng.
+
+
 
